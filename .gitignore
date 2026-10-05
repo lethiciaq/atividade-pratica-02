@@ -1,0 +1,10 @@
+# Diário de bordo do aluno — gerado ao rodar o notebook, nunca versionado.
+# O que o professor lê é a tabela do diario() impressa dentro do .ipynb.
+diario-*.json
+
+# Atividades futuras, ainda não liberadas para a turma.
+_em-preparo/
+
+# Artefatos do Python
+__pycache__/
+*.py[cod]
